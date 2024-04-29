@@ -1,29 +1,8 @@
+# React + Vite
 
-<h1>Comfy Store</h1>
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-<h4>Built with :</h4>
+Currently, two official plugins are available:
 
-
-<ul>
-  <li>React Js</li>
-  <li>Redux</li>
-  <li>React Query</li>
-  <li>React Router 6.4</li>
-  <li>Axios</li>
-  <li>Tailwind css / daisy ui</li>
-  
-</ul>
-
-![alt text](https://github.com/Moemen12/comfy_Store/blob/main/project_images/register.png)
-
-![alt text](https://github.com/Moemen12/comfy_Store/blob/main/project_images/main.png)
-
-![alt text](https://github.com/Moemen12/comfy_Store/blob/main/project_images/products.png)
-
-![alt text](https://github.com/Moemen12/comfy_Store/blob/main/project_images/card.png)
-
-![alt text](https://github.com/Moemen12/comfy_Store/blob/main/project_images/checkout.png)
-
-![alt text](https://github.com/Moemen12/comfy_Store/blob/main/project_images/orders.png)
-
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
